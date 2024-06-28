@@ -9,7 +9,7 @@ const Menu = () => {
           <a href="#offer">Our offer</a>
         </li>
         <li>
-          <a hred="#contact">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
     </nav>
