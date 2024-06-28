@@ -1,4 +1,7 @@
 {
+    "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^7.10.4"
+},
   "name": "myproject",
   "version": "0.1.0",
   "private": true,
