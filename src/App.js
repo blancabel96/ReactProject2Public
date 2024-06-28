@@ -1,10 +1,13 @@
 import "./App.css";
+import Menu from "./components/Menu/menu";
+import Offer from "./components/Offer/Offer";
 
 function App() {
   return (
-    <div>
-      <h1>Test 2</h1>
-    </div>
+    <main>
+      <Menu />
+      <Offer />
+    </main>
   );
 }
 

@@ -1,0 +1,6 @@
+.offersWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+  gap: 25px;
+}

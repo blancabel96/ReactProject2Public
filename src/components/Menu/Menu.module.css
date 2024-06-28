@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0;
+  background-color: red;
+}
+
+.items {
+  display: flex;
+  gap: 16px;
+  list-style-type: none;
+}
